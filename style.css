@@ -1,0 +1,27 @@
+  body {
+            background-color: lightpink;
+        }
+
+        h1 {background-color: lightyellow;
+        font-family: cursive;
+        color: pink;
+        }
+        
+        h2 {
+            background-color: lightyellow;
+            font-family: cursive;
+            color: pink;
+        }
+
+        p {
+            background-color: deeppink;
+            font-family: monospace;
+            color: whitesmoke;
+        }
+
+        li {
+            background-color: deeppink;
+            font-family: monospace;
+            color: whitesmoke;
+        }
+        
